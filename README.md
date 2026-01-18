@@ -49,6 +49,14 @@ The monitoring workflow follows these stages:
 
 ---
 
+## Zero Trust and Monitoring
+
+Continuous monitoring supports a Zero Trust model by providing visibility into network behavior
+across segmented environments. Latency, packet loss, and availability metrics help detect anomalies
+that may indicate misconfiguration, failure, or potential security issues.
+
+Monitoring reinforces the principle of continuous verification rather than assumed trust.
+
 ## Key Skills Demonstrated
 - Network observability and monitoring strategy
 - Alert fatigue avoidance through meaningful thresholds
